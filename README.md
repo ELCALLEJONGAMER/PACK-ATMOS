@@ -1,6 +1,8 @@
 # ATMOSFERA
 Esto es un papaquete de Amosphere que reune las versiones mas actuales facilitando la descarga y uso de todas las aplicaciones. No soy creador de ninguna de ellas por favor si vas a agradecer, agradece a cada uno de sus respectivos creadores y desarrolladores.
 
+Para entrar a hbmenu desde galeria debes de mantener presionado el boton L.
+
 SISTEMA MODIFICADO:
 Atmósfera 1.6.2 https://github.com/Atmosphere-NX/Atmosphere/releases
 
